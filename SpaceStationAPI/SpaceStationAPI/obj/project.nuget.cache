@@ -1,0 +1,127 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z8/a2rM8DzoOa9YP70OW9ck/KUCmWh/J9RmAOgDs48a37zT5tsWHEq4TU3xNfc2kSBh7+fPN2aXVBUP/7gjQ5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\riki_apter\\source\\repos\\SpaceStation\\SpaceStationAPI\\SpaceStationAPI\\SpaceStationAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\riki_apter\\.nuget\\packages\\microsoft.aspnet.webapi.client\\4.0.20710\\microsoft.aspnet.webapi.client.4.0.20710.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\microsoft.aspnet.webapi.core\\4.0.20710\\microsoft.aspnet.webapi.core.4.0.20710.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\microsoft.aspnet.webapi.webhost\\4.0.20710\\microsoft.aspnet.webapi.webhost.4.0.20710.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\microsoft.csharp\\4.4.1\\microsoft.csharp.4.4.1.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.27\\microsoft.entityframeworkcore.3.1.27.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.27\\microsoft.entityframeworkcore.abstractions.3.1.27.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.27\\microsoft.entityframeworkcore.analyzers.3.1.27.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.3\\microsoft.extensions.apidescription.server.6.0.3.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.27\\microsoft.extensions.caching.abstractions.3.1.27.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.27\\microsoft.extensions.caching.memory.3.1.27.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.27\\microsoft.extensions.configuration.3.1.27.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.27\\microsoft.extensions.configuration.abstractions.3.1.27.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.27\\microsoft.extensions.configuration.binder.3.1.27.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.27\\microsoft.extensions.dependencyinjection.3.1.27.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.27\\microsoft.extensions.dependencyinjection.abstractions.3.1.27.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.0\\microsoft.extensions.fileproviders.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\3.1.0\\microsoft.extensions.fileproviders.embedded.3.1.0.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\microsoft.extensions.logging\\3.1.27\\microsoft.extensions.logging.3.1.27.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.27\\microsoft.extensions.logging.abstractions.3.1.27.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\microsoft.extensions.options\\3.1.27\\microsoft.extensions.options.3.1.27.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.27\\microsoft.extensions.primitives.3.1.27.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\microsoft.net.http\\2.0.20710\\microsoft.net.http.2.0.20710.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\microsoft.web.infrastructure\\1.0.0\\microsoft.web.infrastructure.1.0.0.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\namotion.reflection\\2.0.10\\namotion.reflection.2.0.10.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\njsonschema\\10.7.2\\njsonschema.10.7.2.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\njsonschema.yaml\\10.7.2\\njsonschema.yaml.10.7.2.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\nswag.annotations\\13.16.1\\nswag.annotations.13.16.1.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\nswag.aspnetcore\\13.16.1\\nswag.aspnetcore.13.16.1.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\nswag.core\\13.16.1\\nswag.core.13.16.1.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\nswag.core.yaml\\13.16.1\\nswag.core.yaml.13.16.1.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\nswag.generation\\13.16.1\\nswag.generation.13.16.1.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\nswag.generation.aspnetcore\\13.16.1\\nswag.generation.aspnetcore.13.16.1.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\swashbuckle\\5.6.0\\swashbuckle.5.6.0.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\swashbuckle.aspnetcore\\5.3.3\\swashbuckle.aspnetcore.5.3.3.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.3.3\\swashbuckle.aspnetcore.swagger.5.3.3.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.3.3\\swashbuckle.aspnetcore.swaggergen.5.3.3.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\swashbuckle.core\\5.6.0\\swashbuckle.core.5.6.0.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\webactivatorex\\2.0.0\\webactivatorex.2.0.0.nupkg.sha512",
+    "C:\\Users\\riki_apter\\.nuget\\packages\\yamldotnet\\11.2.1\\yamldotnet.11.2.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNet.WebApi.Client 4.0.20710' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.AspNet.WebApi.Client",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNet.WebApi.Core 4.0.20710' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.AspNet.WebApi.Core",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNet.WebApi.WebHost 4.0.20710' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.AspNet.WebApi.WebHost",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Net.Http 2.0.20710' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Net.Http",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Web.Infrastructure 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Web.Infrastructure",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Swashbuckle.Core 5.6.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Swashbuckle.Core",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WebActivatorEx 2.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "WebActivatorEx",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
